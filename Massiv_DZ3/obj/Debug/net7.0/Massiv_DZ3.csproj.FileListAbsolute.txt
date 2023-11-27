@@ -1,0 +1,14 @@
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\bin\Debug\net7.0\Massiv_DZ3.exe
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\bin\Debug\net7.0\Massiv_DZ3.deps.json
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\bin\Debug\net7.0\Massiv_DZ3.runtimeconfig.json
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\bin\Debug\net7.0\Massiv_DZ3.dll
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\bin\Debug\net7.0\Massiv_DZ3.pdb
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.AssemblyInfoInputs.cache
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.AssemblyInfo.cs
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.csproj.CoreCompileInputs.cache
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.dll
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\refint\Massiv_DZ3.dll
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.pdb
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\Massiv_DZ3.genruntimeconfig.cache
+C:\Users\vacwa\OneDrive\Рабочий стол\dz3\Massiv_DZ3\obj\Debug\net7.0\ref\Massiv_DZ3.dll
